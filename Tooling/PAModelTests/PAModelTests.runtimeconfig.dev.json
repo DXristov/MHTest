@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aside\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Work\\Playground\\PowerAppsFormatter\\Tooling\\pkg"
+    ]
+  }
+}

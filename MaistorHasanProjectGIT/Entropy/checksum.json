@@ -1,0 +1,15 @@
+{
+  "ClientPerFileChecksums": {
+    "AppCheckerResult.sarif": "C5_2/1xQBUR7hlfDw4dUHVUVobQtiU2fjk287ZgxBzRrqM=",
+    "Controls\\1.json": "C5_qjxh5Gb4b6AZg56uz9EkbfqbZAD6uX5zkhTd//6LPdE=",
+    "Controls\\3.json": "C5_TJn5BGaAyWMWuiV9gJ7oheuFMENh0kU/M40ZRn85LhA=",
+    "Header.json": "C5_ZzLtbD16ndc/4BSNQVZSP3Ns+riCpYkohTGF5lTz4fk=",
+    "Properties.json": "C5_PG6phYdMQj2Jate5Bqb79zAkb22VIkpf1+E9rU3EjGc=",
+    "References\\DataSources.json": "C5_VzCQrdncE36Fr8hpWljhw7Ju5NtyGiaPGaaOC5QbyE4=",
+    "References\\Resources.json": "C5_ByxTaKX/fUunYblfgfRMM6Jc0D1Dm0HrLerUoe62Aq8=",
+    "References\\Templates.json": "C5_r5xQrXDC5d4yWKA5dKYTK1OpjusUDYa9tM+y8LI5eqE=",
+    "References\\Themes.json": "C5_zf8P6UuWSO7PwrbFDEPwOHOQ8OAQ9URzR5/wyEsFelc=",
+    "Resources\\PublishInfo.json": "C5_liFCEiOwslTgkbHTkgqY1PDOpUU8uJv4gyDCby3l5JU="
+  },
+  "ClientStampedChecksum": "C5_/SMpeeJ8JhTvFueWwfszNdWB9fb5VX0WiYm41588RvI="
+}

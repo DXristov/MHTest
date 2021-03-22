@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json",
+  "runs": [
+    {
+      "columnKind": "utf16CodeUnits",
+      "invocations": [
+        {
+          "endTimeUtc": "2021-03-16T09:25:15.593Z",
+          "executionSuccessful": true,
+          "startTimeUtc": "2021-03-16T09:25:15.570Z"
+        }
+      ],
+      "results": [],
+      "tool": {
+        "driver": {
+          "fullName": "PowerApps app checker",
+          "name": "PowerApps app checker",
+          "version": "1.301"
+        }
+      }
+    }
+  ],
+  "version": "2.1.0"
+}

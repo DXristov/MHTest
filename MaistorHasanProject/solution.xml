@@ -1,0 +1,121 @@
+<ImportExportXml version="9.2.21023.135" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>MaistorHasan</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="MaistorHasan" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="Maistor Hasan's banicharnitza" languagecode="1033" />
+    </Descriptions>
+    <Version>1.0.0.0</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>Cr537f1</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="CDS Default Publisher" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>cr2b8</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>32226</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="cr2b8_banicaaccounting" behavior="0" />
+      <RootComponent type="1" schemaName="cr2b8_banicadelivery" behavior="0" />
+      <RootComponent type="1" schemaName="cr2b8_banicaproduct" behavior="0" />
+      <RootComponent type="1" schemaName="cr2b8_banitcaemployees" behavior="0" />
+      <RootComponent type="1" schemaName="cr2b8_hb_configurepromotions" behavior="0" />
+      <RootComponent type="1" schemaName="new_banicaflow" behavior="0" />
+      <RootComponent type="9" schemaName="cr2b8_saleitems" behavior="0" />
+      <RootComponent type="9" schemaName="cr2b8_type" behavior="0" />
+      <RootComponent type="9" schemaName="cr2b8_typesofexpenses" behavior="0" />
+      <RootComponent type="29" id="{155c600b-e287-eb11-a812-000d3a289dd1}" behavior="0" />
+      <RootComponent type="29" id="{27417e20-b888-eb11-a812-000d3ad9e173}" behavior="0" />
+      <RootComponent type="29" id="{2fc8a421-f487-eb11-a812-000d3aacf5aa}" behavior="0" />
+      <RootComponent type="29" id="{329507f8-b888-eb11-a812-000d3ad9e173}" behavior="0" />
+      <RootComponent type="29" id="{aab62d16-b688-eb11-a812-000d3ad9e173}" behavior="0" />
+      <RootComponent type="60" id="{23dcb88b-0188-eb11-a812-00224881880c}" behavior="0" />
+      <RootComponent type="60" id="{427931e2-7a8a-41e0-9358-c4549edb6b68}" behavior="0" />
+      <RootComponent type="60" id="{7f4a4d05-8c10-44ec-b8e2-3afc0f927cb3}" behavior="0" />
+      <RootComponent type="60" id="{9946d9d7-c955-44b9-98a8-af300bd75307}" behavior="0" />
+      <RootComponent type="60" id="{e263fd7b-7605-4ca2-9c0a-22d0e699f0cd}" behavior="0" />
+      <RootComponent type="60" id="{e9711632-42d4-40be-a1d4-d5d9495b2945}" behavior="0" />
+      <RootComponent type="62" schemaName="cr2b8_MaistorHasanBanitcashop" behavior="0" />
+      <RootComponent type="80" schemaName="cr2b8_MaistorHasanBanitcashop" behavior="0" />
+      <RootComponent type="300" schemaName="cr2b8_banitsacanvasapp_d4975" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required key="0" type="1" schemaName="sample_idea" displayName="Idea" solution="InnovationHub (0.0.0.1)" />
+        <Dependent key="1" type="80" schemaName="cr2b8_MaistorHasanBanitcashop" displayName="Maistor Hasan Banitca shop" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="2" type="1" schemaName="sample_challenge" displayName="Challenge" solution="InnovationHub (0.0.0.1)" />
+        <Dependent key="1" type="80" schemaName="cr2b8_MaistorHasanBanitcashop" displayName="Maistor Hasan Banitca shop" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="3" type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)" />
+        <Dependent key="1" type="80" schemaName="cr2b8_MaistorHasanBanitcashop" displayName="Maistor Hasan Banitca shop" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>
